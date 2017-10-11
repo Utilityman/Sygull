@@ -1,9 +1,9 @@
 {
   "name": "sygull",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node to MySQL ORM",
   "main": "dist/sygull.js",
-  "author": "Joshua Mackin <mackin711@gmail.com>, Tom Dale <trdale@gmail.com>",
+  "author": "",
   "directories": {
     "example": "examples"
   },
@@ -12,7 +12,6 @@
     "fKeyExample": "node examples/foreignKeyExample",
     "junctionExample": "node examples/junctionExample"
   },
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.4",
