@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A node to MySQL ORM",
   "main": "dist/sygull.js",
+  "author": "Joshua Mackin <mackin711@gmail.com>, Tom Dale <trdale@gmail.com>",
   "directories": {
     "example": "examples"
   },
