@@ -1,0 +1,20 @@
+{
+  "name": "sygull",
+  "version": "1.0.0",
+  "description": "A node to MySQL ORM",
+  "main": "dist/sygull.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "example": "node examples/example",
+    "fKeyExample": "node examples/foreignKeyExample",
+    "junctionExample": "node examples/junctionExample"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mysql2": "^1.4.2"
+  }
+}
